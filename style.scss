@@ -46,6 +46,7 @@
   @include transition(top, 0, 200ms);
   left: 0;
   right: 0;
+  background-size: 100%;
 
   @include mobile-only {
     max-width: inherit; // don't exceed body width (and pass down to shadow overlay)
@@ -65,7 +66,10 @@
     position: absolute;
   }
 }
-
+.header-title {
+  width: 100%;
+  text-align: center;
+}
 .header--home {
   @include tablet-portrait-up {
     height: 13rem;
@@ -126,8 +130,8 @@
     line-height: 0;
 
     > h1, > div:last-child {
-      position: absolute;
-      bottom: -9rem;
+      // position: absolute;
+      // bottom: -9rem;
     }
 
     > h1 {
@@ -139,9 +143,9 @@
     }
 
     > div:last-child {
-      left: 50%;
-      margin-left: 6.5rem;
-      font-size: 5.75vw;
+      // left: 50%;
+      // margin-left: 6.5rem;
+      // font-size: 5.75vw;
     }
   }
 
