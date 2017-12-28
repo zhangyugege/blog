@@ -616,6 +616,7 @@
 .post__date {
   font-style: italic;
   font-weight: 500;
+  color: #555;
 
   @include tablet-portrait-up { font-size: 1.2rem; }
 
