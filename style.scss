@@ -46,7 +46,7 @@
   @include transition(top, 0, 200ms);
   left: 0;
   right: 0;
-  background-size: 100%;
+  background-size: contain;
 
   @include mobile-only {
     max-width: inherit; // don't exceed body width (and pass down to shadow overlay)
