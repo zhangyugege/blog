@@ -6,7 +6,7 @@ title: 小丸子 | Front-end engineer | Fitness | Food | Yoga   # used in <title
 author: zygg                        # used in a <meta> tag & /feed.xml
 email: liuchen798@163.com                        # used in concat email
 description: >                              # used in a <meta> tag & /feed.xml
-  
+github:  https://github.com/zhangyugege
                              # used in site header, beside title
 avatar: /i/avatar.jpg                       # used as portrait in site header
 banner: /i/banner.png                    # used as background in site header
