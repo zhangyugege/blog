@@ -608,7 +608,7 @@
 .post__title {
   @extend %banner__title;
   @include tablet-portrait-up {
-    color: inherit;
+    // color: inherit;
     margin-bottom: 1rem;
   }
 }
