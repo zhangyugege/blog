@@ -2,7 +2,7 @@
 # Theme Customization #
 #######################
 
-title: Front-end engineer | Fitness | Food | Yoga   # used in <title> tag & site header
+title: 小丸子 | Front-end engineer | Fitness | Food | Yoga   # used in <title> tag & site header
 author: zygg                        # used in a <meta> tag & /feed.xml
 description: >                              # used in a <meta> tag & /feed.xml
   
@@ -19,11 +19,11 @@ nav_menu:
   - name: Posts
     url: /
     icon: /i/icons.svg#posts # icons should be 24x24 px.
-  - name: Projects
-    url: /projects
-    icon: /i/icons.svg#portfolio
+  # - name: Projects
+    # url: /projects
+    # icon: /i/icons.svg#portfolio
   - name: GitHub
-    url: https://github.com/zhanyugege/
+    url: https://github.com/zhangyugege
     icon: /i/icons.svg#github
     outbound: true      # this key sets a link to open in a new window.
   - name: Contact
