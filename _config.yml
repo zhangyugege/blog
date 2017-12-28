@@ -2,13 +2,13 @@
 # Theme Customization #
 #######################
 
-title: 小丸子                             # used in <title> tag & site header
+title: 小丸子-前端工程师 健身 美食 瑜伽   # used in <title> tag & site header
 author: zygg                        # used in a <meta> tag & /feed.xml
 description: >                              # used in a <meta> tag & /feed.xml
-  前端工程师 健身 美食 瑜伽
-slogan: Showtime!                           # used in site header, beside title
+  
+                             # used in site header, beside title
 avatar: /i/avatar.jpg                       # used as portrait in site header
-banner: /i/banner.jpg                    # used as background in site header
+banner: /i/banner.png                    # used as background in site header
 url: http://solana.ryanlue.com              # used by plugins to generate feed.xml and sitemap.xml
 baseurl: '/blog'                                 # prepended to all absolute filepaths
 repo: https://github.com/rlue/jekyll-solana # used in footer
